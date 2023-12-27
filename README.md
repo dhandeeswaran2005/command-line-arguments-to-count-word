@@ -30,8 +30,9 @@ words=data.split()
 print("Total Words:",len(words))
 ```
 ### OUTPUT:
-![image](https://github.com/MOHAMEDFAROOK2005/command-line-arguments-to-count-word/assets/150319482/0c2483e4-9bcc-4a7e-a3a2-a3e7390b69a2)
-![image](https://github.com/MOHAMEDFAROOK2005/command-line-arguments-to-count-word/assets/150319482/71004c3e-6304-45d5-8eef-f7d5b9a8eef7)
+![Screenshot 2023-12-27 154153](https://github.com/dhandeeswaran2005/command-line-arguments-to-count-word/assets/147139188/c8855575-dd14-4ee3-a27a-6f214752d800)
+![Screenshot 2023-12-27 154201](https://github.com/dhandeeswaran2005/command-line-arguments-to-count-word/assets/147139188/fd20a956-0da1-4bd5-964a-7979f68cd772)
+
 
 
 
